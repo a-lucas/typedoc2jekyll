@@ -1,0 +1,16 @@
+{
+  "name": "generator-typedoc2jekyll",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "yeoman-generator": "^0.24.1"
+  }
+}
